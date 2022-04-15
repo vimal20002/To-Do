@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/To-Do/static/css/main.4265f90b.css",
+    "main.js": "/To-Do/static/js/main.be67b0bf.js",
+    "static/media/ww.png": "/To-Do/static/media/ww.7b0a96c9cddcb38b3623.png",
+    "static/media/man.png": "/To-Do/static/media/man.fa8c733afdaefd303a26.png",
+    "static/media/abt.png": "/To-Do/static/media/abt.2239cb1c8053a9b77ba6.png",
+    "static/media/mw.png": "/To-Do/static/media/mw.b2c05d7a6557bf6f8149.png",
+    "static/media/free-time.png": "/To-Do/static/media/free-time.760215c0e0f91c927779.png",
+    "static/media/check.png": "/To-Do/static/media/check.09e5b14674638bfb85ee.png",
+    "static/media/add.png": "/To-Do/static/media/add.90b950d171bb0b3986d1.png",
+    "static/media/about.png": "/To-Do/static/media/about.28860647403eb24107e8.png",
+    "static/media/deadline.png": "/To-Do/static/media/deadline.d7bd56cd0c6fdb60f846.png",
+    "static/media/github.png": "/To-Do/static/media/github.22cfdd1cba253783ce51.png",
+    "static/media/instagram.png": "/To-Do/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/bin.png": "/To-Do/static/media/bin.ff87323fe2d305bcd4ae.png",
+    "static/media/home.png": "/To-Do/static/media/home.fea8c0bedf107889fa0b.png",
+    "static/media/linkedin.png": "/To-Do/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/To-Do/index.html",
+    "main.4265f90b.css.map": "/To-Do/static/css/main.4265f90b.css.map",
+    "main.be67b0bf.js.map": "/To-Do/static/js/main.be67b0bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4265f90b.css",
+    "static/js/main.be67b0bf.js"
+  ]
+}
